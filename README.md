@@ -120,7 +120,7 @@ The assistant successfully handled both cases in a single test session:
 #### Chat Output  
 The assistant correctly provided the stock information:  
 
-![Stock Query Test - Samsung Galaxy S21](screenshots/stocktest.jpg)   
+![Stock Query Test - Samsung Galaxy S21](screenshots/stocktest.JPG)   
 
 ### 3.1 Handling Non-Existent Products  
 **Objective:** Verify that the assistant correctly responds when a user requests stock information for a product that is not listed in `catalog.json`.  
