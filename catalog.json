@@ -4,7 +4,7 @@
         "Name": "Apple MacBook Pro",
         "Description": "16-inch, 16GB RAM, 1TB SSD",
         "Price": 2399,
-        "Stock_availabiility": 15
+        "Stock_availabiility": 0
     },
     {
         "PRODUCT_ID": 2,
