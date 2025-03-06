@@ -224,5 +224,5 @@ The assistant successfully handled the full interaction flow:
 ---
 
 ## Submission Evidence  
-- **GitHub Repository:** [Link to the repo]  
-- **Submission Video:** [Link to the video]  
+- **GitHub Repository:** https://github.com/DanielLV1/qa-purchase-assistant.git  
+- **Submission Video:** https://drive.google.com/file/d/1y1ddRzbRz8O_ZuaZImL-KIW-EIbeCuhy/view?usp=sharing  
