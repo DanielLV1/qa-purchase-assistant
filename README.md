@@ -80,9 +80,9 @@ When requesting information about a non-existent product, the assistant handled 
 **Expected Result:** The assistant should recognize `"Apple iPhone 13"` correctly in all cases.  
 **Actual Result:** The assistant successfully retrieved product information in all cases, including when using:  
 
-1️ **All lowercase:** `"i want information about apple iphone 13"`  
-2️ **All uppercase:** `"I WANT INFORMATION ABOUT APPLE IPHONE 13"`  
-3️ **Minor typo:** `"i want information about aplle iphone 13"`  
+**All lowercase:** `"i want information about apple iphone 13"`  
+**All uppercase:** `"I WANT INFORMATION ABOUT APPLE IPHONE 13"`  
+**Minor typo:** `"i want information about aplle iphone 13"`  
 
 #### Chat Output  
 The assistant correctly handled case variations and a minor typo in a single test session:  
